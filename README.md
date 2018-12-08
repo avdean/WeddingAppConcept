@@ -12,6 +12,9 @@ Credits:
 	Original Idea:
 		Thomas Scallon
 
+	Original Idea:
+		Thomas Scallon
+	
 	Demo Images:
 		Unsplash (unsplash.com)
 
